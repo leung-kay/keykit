@@ -20,5 +20,5 @@
 ## 计划
 &emsp;&emsp;在有issue没有完成的情况下至少保持一月一更。<p/>
 &emsp;&emsp;六月份计划：
-1. 完成日志记录工具类的单元测试#1
-2. 去除commons-io包的依赖#2
+1. [完成日志记录工具类的单元测试](https://github.com/leung-kay/keykit/issues/1)
+2. [去除commons-io包的依赖](https://github.com/leung-kay/keykit/issues/2)
